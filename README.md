@@ -87,63 +87,100 @@ This project fulfills the following core requirements:
 
 ## Setup and Running the Project 🚀
 
-**Prerequisites:**
-* [Node.js](https://nodejs.org/) (version recommended by Astro, typically latest LTS)
-* A package manager like `npm` or `yarn`
+### Prerequisites
 
-**1. Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
-2. Install Dependencies:
+- [Node.js](https://nodejs.org/) (use the latest LTS version recommended by Astro)
+- A package manager: `npm` or `yarn`
 
-Bash
+---
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+---
+
+### 2. Install Dependencies
+
+```bash
 npm install
 # or
 yarn install
-3. Set Up Environment Variables:
-Create a .env file in the root of the project and add your Google Gemini API key:
+```
 
-Code snippet
+---
 
+### 3. Set Up Environment Variables
+
+Create a `.env` file in the root of the project and add your Google Gemini API key:
+
+```env
 PUBLIC_GEMINI_API_KEY=your_actual_gemini_api_key_here
-Note: The .env file is included in .gitignore and should not be committed to the repository.
+```
 
-4. Run the Development Server:
+> **Note:** The `.env` file is included in `.gitignore` and should **not** be committed to the repository.
 
-Bash
+---
 
+### 4. Run the Development Server
+
+```bash
 npm run dev
 # or
 yarn dev
-This will start the Astro development server, typically at http://localhost:4321. The site will automatically reload when you make changes to the files.
+```
 
-5. Build for Production:
+This will start the Astro development server, typically at [http://localhost:4321](http://localhost:4321). The site will automatically reload when you make changes to the files.
+
+---
+
+### 5. Build for Production
+
 To create a production-ready build (static files):
 
-Bash
-
+```bash
 npm run build
 # or
 yarn build
-The output will be in the dist/ directory. You can then deploy this directory to any static hosting service.
+```
 
-6. Preview the Build (Optional):
+The output will be in the `dist/` directory. You can then deploy this directory to any static hosting service.
+
+---
+
+### 6. Preview the Build (Optional)
+
 After building, you can preview the production site locally:
-bash npm run preview # or yarn preview
 
-Future Enhancements (Optional) ✨
-More sophisticated input sanitization for AI-generated HTML.
-Advanced accessibility audits and improvements.
-Integration of more datasets or a live API for Women in STEM data.
-Implementing the commented-out Content Security Policy.
-User accounts or personalized features (though this would move away from the "static/privacy-first" aspect if not handled carefully).
-Group Members 🧑‍💻
-* @marakiteferi
-* @Meti-20
-* @thundercode21
-* @Kaleb657
-* @Lencho123/@Kaneneus(same account)
+```bash
+npm run preview
+# or
+yarn preview
+```
 
-(This project was created for the Special Topics in CSE mini-project at ASTU.)
+---
+
+## Future Enhancements (Optional) ✨
+
+- More sophisticated input sanitization for AI-generated HTML.
+- Advanced accessibility audits and improvements.
+- Integration of more datasets or a live API for Women in STEM data.
+- Implementing the commented-out Content Security Policy.
+- User accounts or personalized features (though this would move away from the "static/privacy-first" aspect if not handled carefully).
+
+---
+
+## Group Members 🧑‍💻
+
+- @marakiteferi
+- @Meti-20
+- @thundercode21
+- @Kaleb657
+- @Lencho123 / @Kaneneus (same account)
+
+---
+
+> *(This project was created for the Special Topics in CSE mini-project at ASTU.)*
