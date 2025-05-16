@@ -1,11 +1,389 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+// src/pages/index.astro
+const apiKey = import.meta.env.PUBLIC_GEMINI_API_KEY;
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// Basic SEO Meta Tags (as per project requirements)
+const pageTitle = "Women in STEM Explorer";
+const pageDescription = "Explore and discover inspiring women in Science, Technology, Engineering, and Mathematics (STEM) from around the world and across different fields and years.";
+const siteUrl = Astro.url.origin; // Gets the base URL of your site
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+
+    {/* Open Graph / Facebook Meta Tags (for better sharing) */}
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={siteUrl} />
+    {/* <meta property="og:image" content={`${siteUrl}/path/to/your-share-image.jpg`} /> */}
+
+    {/* Twitter Meta Tags */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDescription} />
+    {/* <meta name="twitter:image" content={`${siteUrl}/path/to/your-share-image.jpg`} /> */}
+
+    {/* Schema.org Markup (basic example for a website) */}
+    <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": pageTitle,
+        "url": siteUrl,
+        "description": pageDescription,
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": `${siteUrl}?q={search_term_string}`,
+            "query-input": "required name=search_term_string"
+        }
+    })} />
+
+    {/* Basic Content Security Policy (CSP) - restrictive, adjust as needed */}
+    {/*
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self';
+        script-src 'self' 'unsafe-inline' https://generativelanguage.googleapis.com;
+        style-src 'self' 'unsafe-inline';
+        img-src 'self' data:;
+        font-src 'self';
+        connect-src 'self' https://generativelanguage.googleapis.com;
+        object-src 'none';
+        base-uri 'self';
+        form-action 'self';
+    ">
+    */}
+    {/* Note: For a stricter CSP, avoid 'unsafe-inline' for styles/scripts if possible by moving them to separate files.
+        The 'unsafe-inline' for script-src might be needed if you have other inline scripts or if Astro generates some.
+        The connect-src allows fetching from the Gemini API.
+    */}
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .search-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+            gap: 10px;
+        }
+        #searchInput {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            width: 300px;
+            font-size: 16px;
+        }
+        #searchButton {
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #searchButton:hover {
+            background-color: #2980b9;
+        }
+        #results {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: white;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            min-height: 50px;
+        }
+       .result-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.result-item:last-child {
+    border-bottom: none;
+}
+
+.result-item h3 {
+    margin: 0 0 5px 0;
+    color: #3498db;
+}
+
+.result-item p {
+    margin: 3px 0;
+    font-size: 0.9em;
+}
+
+.result-item .meta {
+    font-size: 0.8em;
+    color: #777;
+}
+
+.result-item.ai-result {
+    background-color: #f0f8ff;
+    border-left: 4px solid #3498db;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+        .error-message {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .loading-message {
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <h1>Women in STEM Explorer</h1>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search by name, field, country, year..." />
+        <button id="searchButton">Search</button>
+    </div>
+
+    <div id="results">
+        Enter a query to search for inspiring women in STEM.
+    </div>
+
+    <script define:vars={{ clientApiKey: apiKey }}>
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchButton = document.getElementById('searchButton');
+        const searchInput = document.getElementById('searchInput');
+        const resultsDiv = document.getElementById('results');
+        let localDataCache = null; // To cache the loaded JSON data
+
+        // --- 1. Function to load local JSON data ---
+        // --- 1. Function to load local JSON data ---
+        async function loadLocalData() {
+            if (localDataCache) {
+                return localDataCache; // Return cached data if already loaded
+            }
+            try {
+                const response = await fetch('/output.json'); // Assumes output.json is in public/
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status} while fetching output.json`);
+                }
+                const rawText = await response.text();
+                // Remove trailing comma if it exists
+                const cleanedText = rawText.trim().replace(/,\s*$/, '');
+                localDataCache = JSON.parse(cleanedText);
+                if (!Array.isArray(localDataCache)) {
+                    console.error("Local data (output.json) is not an array. Search will be affected.");
+                    resultsDiv.innerHTML = '<p class="error-message">Error: Local dataset is not in the expected format (array).</p>';
+                    return []; // Return empty array to prevent further errors
+                }
+                return localDataCache;
+            } catch (error) {
+                console.error('Could not load local JSON data (output.json):', error);
+                resultsDiv.innerHTML = `<p class="error-message">Could not load local dataset: ${error.message}. Please ensure output.json exists in the public folder.</p>`;
+                return []; // Return empty array on error
+            }
+        }
+        // Pre-load local data on page load (optional, but good for responsiveness)
+        loadLocalData().then(data => {
+            if (data && data.length > 0) {
+                console.log(`Successfully loaded ${data.length} records from output.json`);
+            } else {
+                console.warn("Local data (output.json) is empty or could not be loaded properly.");
+            }
+        }).catch(err => console.error("Error pre-loading local data:", err));
+
+
+        // --- 2. Function to search local data ---
+       function searchLocalData(data, query) {
+  const q = query.toLowerCase().trim();
+  return data.filter(item => {
+    return (
+      String(item["Country"]                 || "").toLowerCase().includes(q) ||
+      String(item["STEM Fields"]             || "").toLowerCase().includes(q) ||
+      String(item["Year"]                    || "").toLowerCase().includes(q) ||
+      String(item["Female Enrollment (%)"]   || "").toLowerCase().includes(q) ||
+      String(item["Female Graduation Rate (%)"] || "").toLowerCase().includes(q) ||
+      String(item["Gender Gap Index"]        || "").toLowerCase().includes(q)
+    );
+  });
+}
+
+
+
+        // --- 3. Function to display results ---
+       function displayResults(items, source = "local") {
+  // 1. Handle “no results” cases
+  if (!items || items.length === 0) {
+    if (source === "api_fallback_no_results") {
+      resultsDiv.innerHTML = `<p>No results found in our local data or from the AI search.</p>`;
+    } else if (source === "local_no_results_will_try_api") {
+      // we’ll show “Searching with AI…” elsewhere
+    } else {
+      resultsDiv.innerHTML = `<p>No results found for your query.</p>`;
+    }
+    return;
+  }
+
+  // 2. Header
+  let html = '';
+  if (source === "local") {
+    html += `<h2>🔍 Local Results</h2>`;
+  } else {
+    html += `<h2>🤖 AI Search Results</h2>`;
+  }
+
+  // 3. Build result items
+  if (source === "local") {
+    items.forEach(item => {
+      html += `
+        <div class="result-item">
+          <h3>${item["STEM Fields"]} (${item["Year"]})</h3>
+          <p><strong>Country:</strong> ${item["Country"]}</p>
+          <p><strong>Enrollment:</strong> ${item["Female Enrollment (%)"]}%</p>
+          <p><strong>Graduation Rate:</strong> ${item["Female Graduation Rate (%)"]}%</p>
+          <p><strong>Gender Gap Index:</strong> ${item["Gender Gap Index"]}</p>
+        </div>
+      `;
+    });
+  } else {
+    // items[0] is the single long AI response string
+    const paragraphs = items[0]
+      .split(/\n\s*\n|\. /)        // split on double-newline or period+space
+      .map(p => p.trim())
+      .filter(p => p.length);
+
+    paragraphs.forEach(p => {
+      html += `
+        <div class="result-item ai-result">
+          <p>${p}</p>
+        </div>
+      `;
+    });
+  }
+
+  // 4. Render
+  resultsDiv.innerHTML = html;
+}
+
+
+        // --- 4. Function to search with Gemini API ---
+        async function searchWithGeminiAPI(query) {
+            if (!clientApiKey) {
+                resultsDiv.innerHTML = '<p class="error-message">API key not configured. Cannot perform AI search.</p>';
+                return null;
+            }
+            if (!query) {
+                resultsDiv.innerHTML = '<p class="error-message">Please enter a query for AI search.</p>';
+                return null;
+            }
+
+            resultsDiv.innerHTML = '<p class="loading-message">Searching with AI (Gemini)...</p>';
+            const modelName = 'gemini-1.5-flash-latest';
+            const apiURL = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${clientApiKey}`;
+
+            try {
+                const response = await fetch(apiURL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        contents: [{
+                            parts: [{
+                                // Crafting a slightly more specific prompt for better results
+                                text: `Regarding women in STEM, find information about: "${query}". Focus on their achievements, field, country, and significant years if applicable.`
+                            }]
+                        }],
+                        // Optional: Add generationConfig if needed
+                        // generationConfig: {
+                        //   temperature: 0.7,
+                        //   topK: 1,
+                        //   topP: 1,
+                        //   maxOutputTokens: 2048,
+                        // }
+                    })
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json().catch(() => response.text()); // Try to parse JSON, fallback to text
+                    console.error('Gemini API Error Response:', errorData);
+                    throw new Error(`Gemini API Error: ${response.status} ${response.statusText}. Details: ${JSON.stringify(errorData.error || errorData)}`);
+                }
+
+                const data = await response.json();
+                const aiResponseText = data.candidates?.[0]?.content?.parts?.[0]?.text;
+
+                if (aiResponseText) {
+                    return aiResponseText;
+                } else {
+                    console.log("Gemini API response structure:", data); // Log to see what was actually returned
+                    return 'No specific information found by AI for this query.';
+                }
+            } catch (error) {
+                console.error('Error calling Gemini API:', error);
+                resultsDiv.innerHTML = `<p class="error-message">An error occurred during the AI search: ${error.message}</p>`;
+                return null;
+            }
+        }
+
+
+        // --- 5. Event Listener for Search Button ---
+        if (searchButton && searchInput && resultsDiv) {
+            searchButton.addEventListener('click', async () => {
+                const query = searchInput.value.trim();
+                if (!query) {
+                    resultsDiv.innerHTML = '<p>Please enter a search query.</p>';
+                    return;
+                }
+
+                resultsDiv.innerHTML = '<p class="loading-message">Searching local data...</p>';
+                const localJsonData = await loadLocalData(); // Ensure data is loaded/retrieved from cache
+                let localResults = [];
+
+                if (localJsonData && localJsonData.length > 0) {
+                    localResults = searchLocalData(localJsonData, query);
+                }
+
+
+                if (localResults.length > 0) {
+                    displayResults(localResults, "local");
+                } else {
+                    // No local results, or local data couldn't be loaded. Try Gemini API.
+                    resultsDiv.innerHTML = '<p class="loading-message">No local results. Trying AI search...</p>';
+                    displayResults([], "local_no_results_will_try_api"); // Clear previous "Searching local..."
+                    const apiResponse = await searchWithGeminiAPI(query);
+                    if (apiResponse) {
+                        // The API response is a single string. Wrap it in an array for displayResults.
+                        displayResults([apiResponse], "api");
+                    } else {
+                        // Error or no content from API already handled by searchWithGeminiAPI's resultsDiv updates
+                        // Or, if searchWithGeminiAPI returns null due to "No specific information..."
+                        displayResults([], "api_fallback_no_results");
+                    }
+                }
+            });
+
+            // Optional: Allow search on pressing Enter in the input field
+            searchInput.addEventListener('keypress', (event) => {
+                if (event.key === 'Enter') {
+                    searchButton.click();
+                }
+            });
+
+        } else {
+            console.error('Required UI elements (searchInput, searchButton, or resultsDiv) not found.');
+        }
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,4002 @@
+[
+    {
+        "Country": "China",
+        "Year": "2018",
+        "Female Enrollment (%)": "20.4",
+        "Female Graduation Rate (%)": "43.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "35.6",
+        "Female Graduation Rate (%)": "29.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "53.7",
+        "Female Graduation Rate (%)": "32.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "65.0",
+        "Female Graduation Rate (%)": "63.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2010",
+        "Female Enrollment (%)": "54.4",
+        "Female Graduation Rate (%)": "28.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "India",
+        "Year": "2001",
+        "Female Enrollment (%)": "53.0",
+        "Female Graduation Rate (%)": "54.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2002",
+        "Female Enrollment (%)": "69.0",
+        "Female Graduation Rate (%)": "23.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "29.5",
+        "Female Graduation Rate (%)": "38.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.9"
+    },
+    {
+        "Country": "USA",
+        "Year": "2014",
+        "Female Enrollment (%)": "57.1",
+        "Female Graduation Rate (%)": "35.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "China",
+        "Year": "2020",
+        "Female Enrollment (%)": "36.7",
+        "Female Graduation Rate (%)": "64.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2004",
+        "Female Enrollment (%)": "39.9",
+        "Female Graduation Rate (%)": "41.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "32.4",
+        "Female Graduation Rate (%)": "11.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "68.0",
+        "Female Graduation Rate (%)": "31.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.51"
+    },
+    {
+        "Country": "USA",
+        "Year": "2001",
+        "Female Enrollment (%)": "63.2",
+        "Female Graduation Rate (%)": "50.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "29.1",
+        "Female Graduation Rate (%)": "50.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "India",
+        "Year": "2001",
+        "Female Enrollment (%)": "48.7",
+        "Female Graduation Rate (%)": "21.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.51"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "60.1",
+        "Female Graduation Rate (%)": "54.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "China",
+        "Year": "2020",
+        "Female Enrollment (%)": "63.6",
+        "Female Graduation Rate (%)": "62.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2012",
+        "Female Enrollment (%)": "40.0",
+        "Female Graduation Rate (%)": "56.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "USA",
+        "Year": "2007",
+        "Female Enrollment (%)": "55.7",
+        "Female Graduation Rate (%)": "30.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2016",
+        "Female Enrollment (%)": "39.3",
+        "Female Graduation Rate (%)": "64.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2001",
+        "Female Enrollment (%)": "32.5",
+        "Female Graduation Rate (%)": "51.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "USA",
+        "Year": "2014",
+        "Female Enrollment (%)": "41.8",
+        "Female Graduation Rate (%)": "50.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "USA",
+        "Year": "2021",
+        "Female Enrollment (%)": "32.5",
+        "Female Graduation Rate (%)": "55.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "53.7",
+        "Female Graduation Rate (%)": "43.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "China",
+        "Year": "2016",
+        "Female Enrollment (%)": "27.8",
+        "Female Graduation Rate (%)": "43.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2013",
+        "Female Enrollment (%)": "69.1",
+        "Female Graduation Rate (%)": "32.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "China",
+        "Year": "2014",
+        "Female Enrollment (%)": "56.0",
+        "Female Graduation Rate (%)": "56.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "India",
+        "Year": "2015",
+        "Female Enrollment (%)": "21.6",
+        "Female Graduation Rate (%)": "23.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2001",
+        "Female Enrollment (%)": "24.5",
+        "Female Graduation Rate (%)": "43.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "China",
+        "Year": "2010",
+        "Female Enrollment (%)": "60.7",
+        "Female Graduation Rate (%)": "11.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "46.2",
+        "Female Graduation Rate (%)": "47.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Female Enrollment (%)": "41.0",
+        "Female Graduation Rate (%)": "17.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "42.4",
+        "Female Graduation Rate (%)": "40.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "India",
+        "Year": "2016",
+        "Female Enrollment (%)": "45.3",
+        "Female Graduation Rate (%)": "40.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "47.6",
+        "Female Graduation Rate (%)": "64.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "India",
+        "Year": "2003",
+        "Female Enrollment (%)": "34.6",
+        "Female Graduation Rate (%)": "15.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2002",
+        "Female Enrollment (%)": "43.4",
+        "Female Graduation Rate (%)": "58.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2021",
+        "Female Enrollment (%)": "29.0",
+        "Female Graduation Rate (%)": "54.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2023",
+        "Female Enrollment (%)": "36.4",
+        "Female Graduation Rate (%)": "24.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2007",
+        "Female Enrollment (%)": "33.5",
+        "Female Graduation Rate (%)": "24.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.53"
+    },
+    {
+        "Country": "USA",
+        "Year": "2018",
+        "Female Enrollment (%)": "38.4",
+        "Female Graduation Rate (%)": "33.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "USA",
+        "Year": "2010",
+        "Female Enrollment (%)": "45.5",
+        "Female Graduation Rate (%)": "40.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "36.1",
+        "Female Graduation Rate (%)": "38.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2006",
+        "Female Enrollment (%)": "64.6",
+        "Female Graduation Rate (%)": "59.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "37.9",
+        "Female Graduation Rate (%)": "51.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "China",
+        "Year": "2015",
+        "Female Enrollment (%)": "42.9",
+        "Female Graduation Rate (%)": "64.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2023",
+        "Female Enrollment (%)": "20.9",
+        "Female Graduation Rate (%)": "63.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2015",
+        "Female Enrollment (%)": "46.4",
+        "Female Graduation Rate (%)": "27.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2022",
+        "Female Enrollment (%)": "38.8",
+        "Female Graduation Rate (%)": "17.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2018",
+        "Female Enrollment (%)": "62.3",
+        "Female Graduation Rate (%)": "51.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "India",
+        "Year": "2013",
+        "Female Enrollment (%)": "42.3",
+        "Female Graduation Rate (%)": "11.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "China",
+        "Year": "2015",
+        "Female Enrollment (%)": "20.8",
+        "Female Graduation Rate (%)": "23.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.9"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "38.0",
+        "Female Graduation Rate (%)": "39.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "37.6",
+        "Female Graduation Rate (%)": "47.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "60.8",
+        "Female Graduation Rate (%)": "50.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "China",
+        "Year": "2013",
+        "Female Enrollment (%)": "65.8",
+        "Female Graduation Rate (%)": "26.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2016",
+        "Female Enrollment (%)": "23.4",
+        "Female Graduation Rate (%)": "21.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2010",
+        "Female Enrollment (%)": "60.9",
+        "Female Graduation Rate (%)": "53.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "China",
+        "Year": "2011",
+        "Female Enrollment (%)": "31.3",
+        "Female Graduation Rate (%)": "53.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "33.4",
+        "Female Graduation Rate (%)": "45.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "China",
+        "Year": "2006",
+        "Female Enrollment (%)": "42.4",
+        "Female Graduation Rate (%)": "10.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2023",
+        "Female Enrollment (%)": "33.2",
+        "Female Graduation Rate (%)": "18.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "India",
+        "Year": "2015",
+        "Female Enrollment (%)": "56.9",
+        "Female Graduation Rate (%)": "63.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2008",
+        "Female Enrollment (%)": "54.9",
+        "Female Graduation Rate (%)": "27.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "USA",
+        "Year": "2007",
+        "Female Enrollment (%)": "35.2",
+        "Female Graduation Rate (%)": "19.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2023",
+        "Female Enrollment (%)": "37.3",
+        "Female Graduation Rate (%)": "49.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2008",
+        "Female Enrollment (%)": "27.2",
+        "Female Graduation Rate (%)": "61.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2010",
+        "Female Enrollment (%)": "29.5",
+        "Female Graduation Rate (%)": "10.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "37.5",
+        "Female Graduation Rate (%)": "17.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2023",
+        "Female Enrollment (%)": "21.0",
+        "Female Graduation Rate (%)": "62.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "23.2",
+        "Female Graduation Rate (%)": "59.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2016",
+        "Female Enrollment (%)": "60.5",
+        "Female Graduation Rate (%)": "48.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2012",
+        "Female Enrollment (%)": "31.5",
+        "Female Graduation Rate (%)": "16.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "63.7",
+        "Female Graduation Rate (%)": "33.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "USA",
+        "Year": "2007",
+        "Female Enrollment (%)": "52.0",
+        "Female Graduation Rate (%)": "28.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "China",
+        "Year": "2017",
+        "Female Enrollment (%)": "55.3",
+        "Female Graduation Rate (%)": "19.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2014",
+        "Female Enrollment (%)": "33.3",
+        "Female Graduation Rate (%)": "36.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "India",
+        "Year": "2022",
+        "Female Enrollment (%)": "69.5",
+        "Female Graduation Rate (%)": "31.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2020",
+        "Female Enrollment (%)": "31.9",
+        "Female Graduation Rate (%)": "44.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2022",
+        "Female Enrollment (%)": "22.9",
+        "Female Graduation Rate (%)": "44.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2015",
+        "Female Enrollment (%)": "20.6",
+        "Female Graduation Rate (%)": "61.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "India",
+        "Year": "2001",
+        "Female Enrollment (%)": "37.7",
+        "Female Graduation Rate (%)": "23.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "USA",
+        "Year": "2003",
+        "Female Enrollment (%)": "30.9",
+        "Female Graduation Rate (%)": "48.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "India",
+        "Year": "2004",
+        "Female Enrollment (%)": "23.3",
+        "Female Graduation Rate (%)": "56.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "62.9",
+        "Female Graduation Rate (%)": "45.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2006",
+        "Female Enrollment (%)": "24.3",
+        "Female Graduation Rate (%)": "30.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "India",
+        "Year": "2022",
+        "Female Enrollment (%)": "35.6",
+        "Female Graduation Rate (%)": "19.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "52.5",
+        "Female Graduation Rate (%)": "22.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2012",
+        "Female Enrollment (%)": "50.3",
+        "Female Graduation Rate (%)": "16.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2006",
+        "Female Enrollment (%)": "61.9",
+        "Female Graduation Rate (%)": "45.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2015",
+        "Female Enrollment (%)": "63.6",
+        "Female Graduation Rate (%)": "63.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2003",
+        "Female Enrollment (%)": "25.7",
+        "Female Graduation Rate (%)": "36.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "41.1",
+        "Female Graduation Rate (%)": "51.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2000",
+        "Female Enrollment (%)": "58.1",
+        "Female Graduation Rate (%)": "16.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "India",
+        "Year": "2004",
+        "Female Enrollment (%)": "51.5",
+        "Female Graduation Rate (%)": "28.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2021",
+        "Female Enrollment (%)": "37.7",
+        "Female Graduation Rate (%)": "16.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "1.0"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "28.0",
+        "Female Graduation Rate (%)": "17.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "USA",
+        "Year": "2016",
+        "Female Enrollment (%)": "38.7",
+        "Female Graduation Rate (%)": "12.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "55.0",
+        "Female Graduation Rate (%)": "43.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2018",
+        "Female Enrollment (%)": "56.6",
+        "Female Graduation Rate (%)": "25.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2010",
+        "Female Enrollment (%)": "43.3",
+        "Female Graduation Rate (%)": "29.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "68.2",
+        "Female Graduation Rate (%)": "62.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2002",
+        "Female Enrollment (%)": "48.4",
+        "Female Graduation Rate (%)": "18.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2014",
+        "Female Enrollment (%)": "59.2",
+        "Female Graduation Rate (%)": "49.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2010",
+        "Female Enrollment (%)": "69.4",
+        "Female Graduation Rate (%)": "28.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "India",
+        "Year": "2003",
+        "Female Enrollment (%)": "49.6",
+        "Female Graduation Rate (%)": "22.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.51"
+    },
+    {
+        "Country": "China",
+        "Year": "2014",
+        "Female Enrollment (%)": "20.4",
+        "Female Graduation Rate (%)": "27.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "23.6",
+        "Female Graduation Rate (%)": "38.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "25.9",
+        "Female Graduation Rate (%)": "21.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "India",
+        "Year": "2003",
+        "Female Enrollment (%)": "36.8",
+        "Female Graduation Rate (%)": "42.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "China",
+        "Year": "2016",
+        "Female Enrollment (%)": "37.4",
+        "Female Graduation Rate (%)": "27.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2007",
+        "Female Enrollment (%)": "46.1",
+        "Female Graduation Rate (%)": "40.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "22.8",
+        "Female Graduation Rate (%)": "58.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2020",
+        "Female Enrollment (%)": "57.0",
+        "Female Graduation Rate (%)": "45.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "USA",
+        "Year": "2009",
+        "Female Enrollment (%)": "27.5",
+        "Female Graduation Rate (%)": "19.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "USA",
+        "Year": "2017",
+        "Female Enrollment (%)": "58.9",
+        "Female Graduation Rate (%)": "51.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "China",
+        "Year": "2000",
+        "Female Enrollment (%)": "59.9",
+        "Female Graduation Rate (%)": "45.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2001",
+        "Female Enrollment (%)": "40.0",
+        "Female Graduation Rate (%)": "11.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "India",
+        "Year": "2016",
+        "Female Enrollment (%)": "24.9",
+        "Female Graduation Rate (%)": "47.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "34.6",
+        "Female Graduation Rate (%)": "41.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2009",
+        "Female Enrollment (%)": "27.7",
+        "Female Graduation Rate (%)": "12.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2001",
+        "Female Enrollment (%)": "60.7",
+        "Female Graduation Rate (%)": "37.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "44.5",
+        "Female Graduation Rate (%)": "56.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2011",
+        "Female Enrollment (%)": "54.2",
+        "Female Graduation Rate (%)": "26.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2015",
+        "Female Enrollment (%)": "51.5",
+        "Female Graduation Rate (%)": "16.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "USA",
+        "Year": "2010",
+        "Female Enrollment (%)": "68.2",
+        "Female Graduation Rate (%)": "22.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "USA",
+        "Year": "2017",
+        "Female Enrollment (%)": "29.7",
+        "Female Graduation Rate (%)": "11.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2014",
+        "Female Enrollment (%)": "56.5",
+        "Female Graduation Rate (%)": "11.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2016",
+        "Female Enrollment (%)": "24.5",
+        "Female Graduation Rate (%)": "63.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2007",
+        "Female Enrollment (%)": "61.6",
+        "Female Graduation Rate (%)": "54.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "USA",
+        "Year": "2013",
+        "Female Enrollment (%)": "68.4",
+        "Female Graduation Rate (%)": "32.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2012",
+        "Female Enrollment (%)": "56.8",
+        "Female Graduation Rate (%)": "42.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "China",
+        "Year": "2000",
+        "Female Enrollment (%)": "48.1",
+        "Female Graduation Rate (%)": "57.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "27.7",
+        "Female Graduation Rate (%)": "34.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "21.2",
+        "Female Graduation Rate (%)": "50.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "India",
+        "Year": "2004",
+        "Female Enrollment (%)": "22.1",
+        "Female Graduation Rate (%)": "48.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "57.2",
+        "Female Graduation Rate (%)": "13.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "22.1",
+        "Female Graduation Rate (%)": "61.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2021",
+        "Female Enrollment (%)": "39.8",
+        "Female Graduation Rate (%)": "29.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "40.6",
+        "Female Graduation Rate (%)": "46.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2015",
+        "Female Enrollment (%)": "57.7",
+        "Female Graduation Rate (%)": "44.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2017",
+        "Female Enrollment (%)": "47.4",
+        "Female Graduation Rate (%)": "12.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "45.5",
+        "Female Graduation Rate (%)": "32.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "USA",
+        "Year": "2004",
+        "Female Enrollment (%)": "47.5",
+        "Female Graduation Rate (%)": "64.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2000",
+        "Female Enrollment (%)": "46.0",
+        "Female Graduation Rate (%)": "19.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "China",
+        "Year": "2001",
+        "Female Enrollment (%)": "37.6",
+        "Female Graduation Rate (%)": "29.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "53.1",
+        "Female Graduation Rate (%)": "30.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "50.3",
+        "Female Graduation Rate (%)": "25.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2018",
+        "Female Enrollment (%)": "53.2",
+        "Female Graduation Rate (%)": "48.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "China",
+        "Year": "2018",
+        "Female Enrollment (%)": "50.0",
+        "Female Graduation Rate (%)": "19.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2022",
+        "Female Enrollment (%)": "53.7",
+        "Female Graduation Rate (%)": "13.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "USA",
+        "Year": "2003",
+        "Female Enrollment (%)": "64.1",
+        "Female Graduation Rate (%)": "34.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2008",
+        "Female Enrollment (%)": "23.8",
+        "Female Graduation Rate (%)": "12.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "India",
+        "Year": "2014",
+        "Female Enrollment (%)": "36.3",
+        "Female Graduation Rate (%)": "22.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2001",
+        "Female Enrollment (%)": "26.6",
+        "Female Graduation Rate (%)": "14.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "USA",
+        "Year": "2011",
+        "Female Enrollment (%)": "46.0",
+        "Female Graduation Rate (%)": "49.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2001",
+        "Female Enrollment (%)": "34.4",
+        "Female Graduation Rate (%)": "11.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2000",
+        "Female Enrollment (%)": "58.9",
+        "Female Graduation Rate (%)": "49.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2016",
+        "Female Enrollment (%)": "32.2",
+        "Female Graduation Rate (%)": "37.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "23.7",
+        "Female Graduation Rate (%)": "41.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "USA",
+        "Year": "2020",
+        "Female Enrollment (%)": "67.2",
+        "Female Graduation Rate (%)": "31.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "35.1",
+        "Female Graduation Rate (%)": "56.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2018",
+        "Female Enrollment (%)": "62.4",
+        "Female Graduation Rate (%)": "26.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2005",
+        "Female Enrollment (%)": "60.7",
+        "Female Graduation Rate (%)": "45.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2010",
+        "Female Enrollment (%)": "25.5",
+        "Female Graduation Rate (%)": "39.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2003",
+        "Female Enrollment (%)": "27.8",
+        "Female Graduation Rate (%)": "27.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "57.1",
+        "Female Graduation Rate (%)": "20.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "India",
+        "Year": "2018",
+        "Female Enrollment (%)": "21.0",
+        "Female Graduation Rate (%)": "62.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "India",
+        "Year": "2010",
+        "Female Enrollment (%)": "46.1",
+        "Female Graduation Rate (%)": "12.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "China",
+        "Year": "2015",
+        "Female Enrollment (%)": "54.4",
+        "Female Graduation Rate (%)": "22.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2020",
+        "Female Enrollment (%)": "43.2",
+        "Female Graduation Rate (%)": "11.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "61.6",
+        "Female Graduation Rate (%)": "12.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.9"
+    },
+    {
+        "Country": "India",
+        "Year": "2007",
+        "Female Enrollment (%)": "57.9",
+        "Female Graduation Rate (%)": "48.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "India",
+        "Year": "2018",
+        "Female Enrollment (%)": "65.1",
+        "Female Graduation Rate (%)": "19.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "55.4",
+        "Female Graduation Rate (%)": "61.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "India",
+        "Year": "2019",
+        "Female Enrollment (%)": "43.5",
+        "Female Graduation Rate (%)": "57.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2014",
+        "Female Enrollment (%)": "25.3",
+        "Female Graduation Rate (%)": "29.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "China",
+        "Year": "2004",
+        "Female Enrollment (%)": "32.7",
+        "Female Graduation Rate (%)": "32.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "27.7",
+        "Female Graduation Rate (%)": "59.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "USA",
+        "Year": "2004",
+        "Female Enrollment (%)": "60.3",
+        "Female Graduation Rate (%)": "38.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "China",
+        "Year": "2003",
+        "Female Enrollment (%)": "53.3",
+        "Female Graduation Rate (%)": "39.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "USA",
+        "Year": "2013",
+        "Female Enrollment (%)": "40.5",
+        "Female Graduation Rate (%)": "48.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "20.6",
+        "Female Graduation Rate (%)": "10.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "USA",
+        "Year": "2021",
+        "Female Enrollment (%)": "32.4",
+        "Female Graduation Rate (%)": "59.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2022",
+        "Female Enrollment (%)": "60.7",
+        "Female Graduation Rate (%)": "51.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "USA",
+        "Year": "2006",
+        "Female Enrollment (%)": "54.6",
+        "Female Graduation Rate (%)": "19.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2001",
+        "Female Enrollment (%)": "29.9",
+        "Female Graduation Rate (%)": "42.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2016",
+        "Female Enrollment (%)": "26.1",
+        "Female Graduation Rate (%)": "28.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2002",
+        "Female Enrollment (%)": "51.8",
+        "Female Graduation Rate (%)": "44.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "India",
+        "Year": "2020",
+        "Female Enrollment (%)": "33.0",
+        "Female Graduation Rate (%)": "25.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2009",
+        "Female Enrollment (%)": "68.6",
+        "Female Graduation Rate (%)": "19.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "India",
+        "Year": "2013",
+        "Female Enrollment (%)": "42.4",
+        "Female Graduation Rate (%)": "51.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2023",
+        "Female Enrollment (%)": "34.8",
+        "Female Graduation Rate (%)": "21.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "India",
+        "Year": "2017",
+        "Female Enrollment (%)": "58.1",
+        "Female Graduation Rate (%)": "37.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "China",
+        "Year": "2012",
+        "Female Enrollment (%)": "49.8",
+        "Female Graduation Rate (%)": "18.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2020",
+        "Female Enrollment (%)": "44.8",
+        "Female Graduation Rate (%)": "40.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "33.7",
+        "Female Graduation Rate (%)": "42.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "35.6",
+        "Female Graduation Rate (%)": "24.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2009",
+        "Female Enrollment (%)": "35.8",
+        "Female Graduation Rate (%)": "11.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "46.3",
+        "Female Graduation Rate (%)": "43.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2006",
+        "Female Enrollment (%)": "69.5",
+        "Female Graduation Rate (%)": "20.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "36.0",
+        "Female Graduation Rate (%)": "12.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "20.4",
+        "Female Graduation Rate (%)": "28.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "21.4",
+        "Female Graduation Rate (%)": "39.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "1.0"
+    },
+    {
+        "Country": "China",
+        "Year": "2006",
+        "Female Enrollment (%)": "40.6",
+        "Female Graduation Rate (%)": "32.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "41.2",
+        "Female Graduation Rate (%)": "26.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "30.9",
+        "Female Graduation Rate (%)": "11.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "USA",
+        "Year": "2006",
+        "Female Enrollment (%)": "36.6",
+        "Female Graduation Rate (%)": "45.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "USA",
+        "Year": "2000",
+        "Female Enrollment (%)": "50.5",
+        "Female Graduation Rate (%)": "27.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "India",
+        "Year": "2015",
+        "Female Enrollment (%)": "40.5",
+        "Female Graduation Rate (%)": "56.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2014",
+        "Female Enrollment (%)": "54.5",
+        "Female Graduation Rate (%)": "30.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2003",
+        "Female Enrollment (%)": "43.4",
+        "Female Graduation Rate (%)": "64.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2004",
+        "Female Enrollment (%)": "31.0",
+        "Female Graduation Rate (%)": "24.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "46.0",
+        "Female Graduation Rate (%)": "11.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2003",
+        "Female Enrollment (%)": "35.1",
+        "Female Graduation Rate (%)": "56.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2021",
+        "Female Enrollment (%)": "60.8",
+        "Female Graduation Rate (%)": "28.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "China",
+        "Year": "2020",
+        "Female Enrollment (%)": "22.4",
+        "Female Graduation Rate (%)": "59.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "62.6",
+        "Female Graduation Rate (%)": "46.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "USA",
+        "Year": "2001",
+        "Female Enrollment (%)": "54.2",
+        "Female Graduation Rate (%)": "30.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "India",
+        "Year": "2022",
+        "Female Enrollment (%)": "41.5",
+        "Female Graduation Rate (%)": "61.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.53"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Female Enrollment (%)": "68.4",
+        "Female Graduation Rate (%)": "42.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2006",
+        "Female Enrollment (%)": "42.7",
+        "Female Graduation Rate (%)": "13.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2015",
+        "Female Enrollment (%)": "30.1",
+        "Female Graduation Rate (%)": "59.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "China",
+        "Year": "2006",
+        "Female Enrollment (%)": "47.4",
+        "Female Graduation Rate (%)": "52.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "52.2",
+        "Female Graduation Rate (%)": "57.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2020",
+        "Female Enrollment (%)": "39.2",
+        "Female Graduation Rate (%)": "28.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2001",
+        "Female Enrollment (%)": "51.1",
+        "Female Graduation Rate (%)": "50.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "China",
+        "Year": "2002",
+        "Female Enrollment (%)": "21.8",
+        "Female Graduation Rate (%)": "10.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.51"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2002",
+        "Female Enrollment (%)": "42.4",
+        "Female Graduation Rate (%)": "29.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "China",
+        "Year": "2017",
+        "Female Enrollment (%)": "45.5",
+        "Female Graduation Rate (%)": "55.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "46.7",
+        "Female Graduation Rate (%)": "35.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2009",
+        "Female Enrollment (%)": "65.7",
+        "Female Graduation Rate (%)": "10.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2014",
+        "Female Enrollment (%)": "54.5",
+        "Female Graduation Rate (%)": "25.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2010",
+        "Female Enrollment (%)": "25.0",
+        "Female Graduation Rate (%)": "47.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "1.0"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "36.7",
+        "Female Graduation Rate (%)": "25.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2018",
+        "Female Enrollment (%)": "66.8",
+        "Female Graduation Rate (%)": "37.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "25.3",
+        "Female Graduation Rate (%)": "41.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "USA",
+        "Year": "2006",
+        "Female Enrollment (%)": "20.7",
+        "Female Graduation Rate (%)": "22.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "33.4",
+        "Female Graduation Rate (%)": "24.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "1.0"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "65.7",
+        "Female Graduation Rate (%)": "22.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "48.8",
+        "Female Graduation Rate (%)": "24.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "51.2",
+        "Female Graduation Rate (%)": "48.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2010",
+        "Female Enrollment (%)": "22.2",
+        "Female Graduation Rate (%)": "29.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "68.5",
+        "Female Graduation Rate (%)": "28.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2009",
+        "Female Enrollment (%)": "32.8",
+        "Female Graduation Rate (%)": "21.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "31.6",
+        "Female Graduation Rate (%)": "39.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2023",
+        "Female Enrollment (%)": "68.6",
+        "Female Graduation Rate (%)": "64.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "USA",
+        "Year": "2003",
+        "Female Enrollment (%)": "62.0",
+        "Female Graduation Rate (%)": "62.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "37.0",
+        "Female Graduation Rate (%)": "64.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "India",
+        "Year": "2022",
+        "Female Enrollment (%)": "23.8",
+        "Female Graduation Rate (%)": "46.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "India",
+        "Year": "2003",
+        "Female Enrollment (%)": "42.6",
+        "Female Graduation Rate (%)": "21.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "China",
+        "Year": "2006",
+        "Female Enrollment (%)": "42.3",
+        "Female Graduation Rate (%)": "41.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2021",
+        "Female Enrollment (%)": "37.2",
+        "Female Graduation Rate (%)": "52.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "USA",
+        "Year": "2008",
+        "Female Enrollment (%)": "49.2",
+        "Female Graduation Rate (%)": "47.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "20.8",
+        "Female Graduation Rate (%)": "13.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "USA",
+        "Year": "2012",
+        "Female Enrollment (%)": "62.2",
+        "Female Graduation Rate (%)": "27.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "China",
+        "Year": "2008",
+        "Female Enrollment (%)": "34.2",
+        "Female Graduation Rate (%)": "20.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2020",
+        "Female Enrollment (%)": "23.5",
+        "Female Graduation Rate (%)": "23.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2008",
+        "Female Enrollment (%)": "25.9",
+        "Female Graduation Rate (%)": "43.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "China",
+        "Year": "2012",
+        "Female Enrollment (%)": "29.7",
+        "Female Graduation Rate (%)": "21.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2019",
+        "Female Enrollment (%)": "30.4",
+        "Female Graduation Rate (%)": "54.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.99"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "37.7",
+        "Female Graduation Rate (%)": "21.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "India",
+        "Year": "2001",
+        "Female Enrollment (%)": "20.4",
+        "Female Graduation Rate (%)": "18.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "67.2",
+        "Female Graduation Rate (%)": "34.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "52.8",
+        "Female Graduation Rate (%)": "49.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2016",
+        "Female Enrollment (%)": "30.4",
+        "Female Graduation Rate (%)": "61.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "China",
+        "Year": "2011",
+        "Female Enrollment (%)": "21.2",
+        "Female Graduation Rate (%)": "54.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "51.4",
+        "Female Graduation Rate (%)": "11.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "30.5",
+        "Female Graduation Rate (%)": "63.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2014",
+        "Female Enrollment (%)": "53.6",
+        "Female Graduation Rate (%)": "17.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "China",
+        "Year": "2014",
+        "Female Enrollment (%)": "20.8",
+        "Female Graduation Rate (%)": "28.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "China",
+        "Year": "2017",
+        "Female Enrollment (%)": "55.5",
+        "Female Graduation Rate (%)": "49.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "21.9",
+        "Female Graduation Rate (%)": "54.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "33.5",
+        "Female Graduation Rate (%)": "17.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "33.8",
+        "Female Graduation Rate (%)": "59.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2012",
+        "Female Enrollment (%)": "41.9",
+        "Female Graduation Rate (%)": "34.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "China",
+        "Year": "2001",
+        "Female Enrollment (%)": "58.6",
+        "Female Graduation Rate (%)": "37.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "47.9",
+        "Female Graduation Rate (%)": "43.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2007",
+        "Female Enrollment (%)": "52.0",
+        "Female Graduation Rate (%)": "33.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "India",
+        "Year": "2019",
+        "Female Enrollment (%)": "63.2",
+        "Female Graduation Rate (%)": "58.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "China",
+        "Year": "2003",
+        "Female Enrollment (%)": "34.7",
+        "Female Graduation Rate (%)": "16.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2017",
+        "Female Enrollment (%)": "29.2",
+        "Female Graduation Rate (%)": "54.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "USA",
+        "Year": "2015",
+        "Female Enrollment (%)": "29.6",
+        "Female Graduation Rate (%)": "19.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2003",
+        "Female Enrollment (%)": "24.2",
+        "Female Graduation Rate (%)": "54.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2016",
+        "Female Enrollment (%)": "40.0",
+        "Female Graduation Rate (%)": "51.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "USA",
+        "Year": "2012",
+        "Female Enrollment (%)": "63.5",
+        "Female Graduation Rate (%)": "43.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "China",
+        "Year": "2004",
+        "Female Enrollment (%)": "50.5",
+        "Female Graduation Rate (%)": "24.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "USA",
+        "Year": "2019",
+        "Female Enrollment (%)": "58.3",
+        "Female Graduation Rate (%)": "61.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "57.2",
+        "Female Graduation Rate (%)": "16.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2004",
+        "Female Enrollment (%)": "56.9",
+        "Female Graduation Rate (%)": "32.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.61"
+    },
+    {
+        "Country": "China",
+        "Year": "2009",
+        "Female Enrollment (%)": "52.3",
+        "Female Graduation Rate (%)": "51.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "China",
+        "Year": "2018",
+        "Female Enrollment (%)": "21.7",
+        "Female Graduation Rate (%)": "13.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "China",
+        "Year": "2021",
+        "Female Enrollment (%)": "30.8",
+        "Female Graduation Rate (%)": "33.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2002",
+        "Female Enrollment (%)": "57.3",
+        "Female Graduation Rate (%)": "32.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "India",
+        "Year": "2009",
+        "Female Enrollment (%)": "48.0",
+        "Female Graduation Rate (%)": "32.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "25.4",
+        "Female Graduation Rate (%)": "24.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "India",
+        "Year": "2008",
+        "Female Enrollment (%)": "30.5",
+        "Female Graduation Rate (%)": "28.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "29.7",
+        "Female Graduation Rate (%)": "55.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "44.0",
+        "Female Graduation Rate (%)": "23.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "China",
+        "Year": "2022",
+        "Female Enrollment (%)": "68.5",
+        "Female Graduation Rate (%)": "37.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2010",
+        "Female Enrollment (%)": "60.8",
+        "Female Graduation Rate (%)": "11.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "38.1",
+        "Female Graduation Rate (%)": "21.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "61.6",
+        "Female Graduation Rate (%)": "51.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "USA",
+        "Year": "2005",
+        "Female Enrollment (%)": "31.4",
+        "Female Graduation Rate (%)": "41.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2002",
+        "Female Enrollment (%)": "58.2",
+        "Female Graduation Rate (%)": "28.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "China",
+        "Year": "2013",
+        "Female Enrollment (%)": "52.0",
+        "Female Graduation Rate (%)": "55.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "43.1",
+        "Female Graduation Rate (%)": "26.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "China",
+        "Year": "2006",
+        "Female Enrollment (%)": "51.4",
+        "Female Graduation Rate (%)": "36.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2005",
+        "Female Enrollment (%)": "31.1",
+        "Female Graduation Rate (%)": "10.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2005",
+        "Female Enrollment (%)": "35.0",
+        "Female Graduation Rate (%)": "46.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2003",
+        "Female Enrollment (%)": "44.9",
+        "Female Graduation Rate (%)": "59.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "22.0",
+        "Female Graduation Rate (%)": "41.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "India",
+        "Year": "2010",
+        "Female Enrollment (%)": "21.5",
+        "Female Graduation Rate (%)": "19.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2018",
+        "Female Enrollment (%)": "64.9",
+        "Female Graduation Rate (%)": "53.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "36.2",
+        "Female Graduation Rate (%)": "13.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "USA",
+        "Year": "2016",
+        "Female Enrollment (%)": "58.9",
+        "Female Graduation Rate (%)": "16.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "53.2",
+        "Female Graduation Rate (%)": "26.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "India",
+        "Year": "2014",
+        "Female Enrollment (%)": "49.5",
+        "Female Graduation Rate (%)": "62.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "USA",
+        "Year": "2009",
+        "Female Enrollment (%)": "51.1",
+        "Female Graduation Rate (%)": "51.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "USA",
+        "Year": "2004",
+        "Female Enrollment (%)": "63.7",
+        "Female Graduation Rate (%)": "23.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "46.3",
+        "Female Graduation Rate (%)": "23.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "65.9",
+        "Female Graduation Rate (%)": "53.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "22.1",
+        "Female Graduation Rate (%)": "25.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "USA",
+        "Year": "2019",
+        "Female Enrollment (%)": "59.5",
+        "Female Graduation Rate (%)": "28.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "62.5",
+        "Female Graduation Rate (%)": "52.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "64.6",
+        "Female Graduation Rate (%)": "31.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "28.7",
+        "Female Graduation Rate (%)": "13.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "43.5",
+        "Female Graduation Rate (%)": "62.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "USA",
+        "Year": "2008",
+        "Female Enrollment (%)": "28.8",
+        "Female Graduation Rate (%)": "22.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2015",
+        "Female Enrollment (%)": "66.9",
+        "Female Graduation Rate (%)": "54.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "China",
+        "Year": "2020",
+        "Female Enrollment (%)": "68.3",
+        "Female Graduation Rate (%)": "57.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2011",
+        "Female Enrollment (%)": "34.1",
+        "Female Graduation Rate (%)": "62.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2004",
+        "Female Enrollment (%)": "68.6",
+        "Female Graduation Rate (%)": "47.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "India",
+        "Year": "2016",
+        "Female Enrollment (%)": "28.6",
+        "Female Graduation Rate (%)": "58.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Female Enrollment (%)": "43.4",
+        "Female Graduation Rate (%)": "34.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2019",
+        "Female Enrollment (%)": "41.9",
+        "Female Graduation Rate (%)": "18.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "USA",
+        "Year": "2005",
+        "Female Enrollment (%)": "22.6",
+        "Female Graduation Rate (%)": "21.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "China",
+        "Year": "2002",
+        "Female Enrollment (%)": "43.8",
+        "Female Graduation Rate (%)": "29.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "50.8",
+        "Female Graduation Rate (%)": "27.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2019",
+        "Female Enrollment (%)": "68.2",
+        "Female Graduation Rate (%)": "48.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2013",
+        "Female Enrollment (%)": "45.7",
+        "Female Graduation Rate (%)": "17.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "32.3",
+        "Female Graduation Rate (%)": "12.6",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "USA",
+        "Year": "2019",
+        "Female Enrollment (%)": "39.4",
+        "Female Graduation Rate (%)": "20.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "USA",
+        "Year": "2009",
+        "Female Enrollment (%)": "59.7",
+        "Female Graduation Rate (%)": "34.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "44.2",
+        "Female Graduation Rate (%)": "37.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "26.7",
+        "Female Graduation Rate (%)": "22.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "USA",
+        "Year": "2023",
+        "Female Enrollment (%)": "24.2",
+        "Female Graduation Rate (%)": "14.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2013",
+        "Female Enrollment (%)": "58.2",
+        "Female Graduation Rate (%)": "55.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "21.3",
+        "Female Graduation Rate (%)": "44.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "India",
+        "Year": "2011",
+        "Female Enrollment (%)": "36.4",
+        "Female Graduation Rate (%)": "23.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "28.2",
+        "Female Graduation Rate (%)": "30.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "USA",
+        "Year": "2012",
+        "Female Enrollment (%)": "42.9",
+        "Female Graduation Rate (%)": "22.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "20.1",
+        "Female Graduation Rate (%)": "27.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "USA",
+        "Year": "2021",
+        "Female Enrollment (%)": "66.0",
+        "Female Graduation Rate (%)": "52.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "USA",
+        "Year": "2014",
+        "Female Enrollment (%)": "33.6",
+        "Female Graduation Rate (%)": "60.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2013",
+        "Female Enrollment (%)": "21.4",
+        "Female Graduation Rate (%)": "27.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "India",
+        "Year": "2004",
+        "Female Enrollment (%)": "44.6",
+        "Female Graduation Rate (%)": "32.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2012",
+        "Female Enrollment (%)": "45.5",
+        "Female Graduation Rate (%)": "58.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "USA",
+        "Year": "2014",
+        "Female Enrollment (%)": "28.7",
+        "Female Graduation Rate (%)": "49.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2022",
+        "Female Enrollment (%)": "54.3",
+        "Female Graduation Rate (%)": "17.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "China",
+        "Year": "2010",
+        "Female Enrollment (%)": "51.0",
+        "Female Graduation Rate (%)": "28.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "China",
+        "Year": "2021",
+        "Female Enrollment (%)": "61.3",
+        "Female Graduation Rate (%)": "11.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "China",
+        "Year": "2019",
+        "Female Enrollment (%)": "66.8",
+        "Female Graduation Rate (%)": "23.3",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "China",
+        "Year": "2016",
+        "Female Enrollment (%)": "68.7",
+        "Female Graduation Rate (%)": "34.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.51"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2006",
+        "Female Enrollment (%)": "44.0",
+        "Female Graduation Rate (%)": "43.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2005",
+        "Female Enrollment (%)": "36.5",
+        "Female Graduation Rate (%)": "33.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "USA",
+        "Year": "2017",
+        "Female Enrollment (%)": "41.7",
+        "Female Graduation Rate (%)": "39.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "USA",
+        "Year": "2017",
+        "Female Enrollment (%)": "53.4",
+        "Female Graduation Rate (%)": "32.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "63.1",
+        "Female Graduation Rate (%)": "39.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.6"
+    },
+    {
+        "Country": "USA",
+        "Year": "2009",
+        "Female Enrollment (%)": "66.1",
+        "Female Graduation Rate (%)": "41.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "USA",
+        "Year": "2010",
+        "Female Enrollment (%)": "50.6",
+        "Female Graduation Rate (%)": "50.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2021",
+        "Female Enrollment (%)": "51.6",
+        "Female Graduation Rate (%)": "54.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "USA",
+        "Year": "2020",
+        "Female Enrollment (%)": "42.0",
+        "Female Graduation Rate (%)": "61.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "India",
+        "Year": "2017",
+        "Female Enrollment (%)": "48.2",
+        "Female Graduation Rate (%)": "53.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2012",
+        "Female Enrollment (%)": "40.8",
+        "Female Graduation Rate (%)": "49.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "China",
+        "Year": "2019",
+        "Female Enrollment (%)": "22.8",
+        "Female Graduation Rate (%)": "37.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Female Enrollment (%)": "21.5",
+        "Female Graduation Rate (%)": "64.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2007",
+        "Female Enrollment (%)": "48.5",
+        "Female Graduation Rate (%)": "50.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2005",
+        "Female Enrollment (%)": "48.9",
+        "Female Graduation Rate (%)": "21.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2017",
+        "Female Enrollment (%)": "65.2",
+        "Female Graduation Rate (%)": "12.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "India",
+        "Year": "2000",
+        "Female Enrollment (%)": "57.6",
+        "Female Graduation Rate (%)": "18.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "USA",
+        "Year": "2007",
+        "Female Enrollment (%)": "38.7",
+        "Female Graduation Rate (%)": "40.4",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "49.4",
+        "Female Graduation Rate (%)": "30.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2014",
+        "Female Enrollment (%)": "55.2",
+        "Female Graduation Rate (%)": "63.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "India",
+        "Year": "2011",
+        "Female Enrollment (%)": "25.7",
+        "Female Graduation Rate (%)": "27.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2023",
+        "Female Enrollment (%)": "64.2",
+        "Female Graduation Rate (%)": "42.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2015",
+        "Female Enrollment (%)": "23.4",
+        "Female Graduation Rate (%)": "30.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2022",
+        "Female Enrollment (%)": "28.3",
+        "Female Graduation Rate (%)": "32.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2002",
+        "Female Enrollment (%)": "48.5",
+        "Female Graduation Rate (%)": "60.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2001",
+        "Female Enrollment (%)": "62.4",
+        "Female Graduation Rate (%)": "56.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "China",
+        "Year": "2007",
+        "Female Enrollment (%)": "50.4",
+        "Female Graduation Rate (%)": "11.0",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "India",
+        "Year": "2002",
+        "Female Enrollment (%)": "56.1",
+        "Female Graduation Rate (%)": "11.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2000",
+        "Female Enrollment (%)": "21.0",
+        "Female Graduation Rate (%)": "21.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2004",
+        "Female Enrollment (%)": "41.9",
+        "Female Graduation Rate (%)": "52.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "China",
+        "Year": "2018",
+        "Female Enrollment (%)": "32.7",
+        "Female Graduation Rate (%)": "24.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "30.5",
+        "Female Graduation Rate (%)": "56.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "48.1",
+        "Female Graduation Rate (%)": "50.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.81"
+    },
+    {
+        "Country": "India",
+        "Year": "2009",
+        "Female Enrollment (%)": "47.2",
+        "Female Graduation Rate (%)": "26.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2015",
+        "Female Enrollment (%)": "61.2",
+        "Female Graduation Rate (%)": "40.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "China",
+        "Year": "2010",
+        "Female Enrollment (%)": "65.6",
+        "Female Graduation Rate (%)": "26.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "USA",
+        "Year": "2021",
+        "Female Enrollment (%)": "51.8",
+        "Female Graduation Rate (%)": "56.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.62"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2018",
+        "Female Enrollment (%)": "36.1",
+        "Female Graduation Rate (%)": "56.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.87"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2007",
+        "Female Enrollment (%)": "29.4",
+        "Female Graduation Rate (%)": "20.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "India",
+        "Year": "2014",
+        "Female Enrollment (%)": "43.0",
+        "Female Graduation Rate (%)": "45.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "64.0",
+        "Female Graduation Rate (%)": "20.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "India",
+        "Year": "2006",
+        "Female Enrollment (%)": "26.4",
+        "Female Graduation Rate (%)": "51.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "USA",
+        "Year": "2017",
+        "Female Enrollment (%)": "51.0",
+        "Female Graduation Rate (%)": "50.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2021",
+        "Female Enrollment (%)": "41.2",
+        "Female Graduation Rate (%)": "10.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.7"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "53.7",
+        "Female Graduation Rate (%)": "22.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "28.0",
+        "Female Graduation Rate (%)": "13.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "India",
+        "Year": "2013",
+        "Female Enrollment (%)": "21.1",
+        "Female Graduation Rate (%)": "39.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "57.9",
+        "Female Graduation Rate (%)": "50.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "China",
+        "Year": "2013",
+        "Female Enrollment (%)": "27.5",
+        "Female Graduation Rate (%)": "48.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "USA",
+        "Year": "2015",
+        "Female Enrollment (%)": "66.6",
+        "Female Graduation Rate (%)": "22.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2021",
+        "Female Enrollment (%)": "47.7",
+        "Female Graduation Rate (%)": "50.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.57"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2003",
+        "Female Enrollment (%)": "66.9",
+        "Female Graduation Rate (%)": "33.7",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.68"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2020",
+        "Female Enrollment (%)": "37.8",
+        "Female Graduation Rate (%)": "30.5",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2010",
+        "Female Enrollment (%)": "69.2",
+        "Female Graduation Rate (%)": "50.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.69"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "47.5",
+        "Female Graduation Rate (%)": "11.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2003",
+        "Female Enrollment (%)": "52.5",
+        "Female Graduation Rate (%)": "57.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2017",
+        "Female Enrollment (%)": "56.5",
+        "Female Graduation Rate (%)": "14.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2023",
+        "Female Enrollment (%)": "23.3",
+        "Female Graduation Rate (%)": "56.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.52"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2022",
+        "Female Enrollment (%)": "20.1",
+        "Female Graduation Rate (%)": "47.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "India",
+        "Year": "2020",
+        "Female Enrollment (%)": "67.2",
+        "Female Graduation Rate (%)": "27.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.95"
+    },
+    {
+        "Country": "China",
+        "Year": "2000",
+        "Female Enrollment (%)": "31.3",
+        "Female Graduation Rate (%)": "23.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.74"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2017",
+        "Female Enrollment (%)": "41.4",
+        "Female Graduation Rate (%)": "23.3",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "China",
+        "Year": "2001",
+        "Female Enrollment (%)": "48.4",
+        "Female Graduation Rate (%)": "62.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "USA",
+        "Year": "2020",
+        "Female Enrollment (%)": "49.2",
+        "Female Graduation Rate (%)": "63.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2020",
+        "Female Enrollment (%)": "36.2",
+        "Female Graduation Rate (%)": "38.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.53"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2012",
+        "Female Enrollment (%)": "22.4",
+        "Female Graduation Rate (%)": "14.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "29.8",
+        "Female Graduation Rate (%)": "56.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "China",
+        "Year": "2017",
+        "Female Enrollment (%)": "30.7",
+        "Female Graduation Rate (%)": "57.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.65"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2002",
+        "Female Enrollment (%)": "30.4",
+        "Female Graduation Rate (%)": "32.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2007",
+        "Female Enrollment (%)": "59.1",
+        "Female Graduation Rate (%)": "59.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.88"
+    },
+    {
+        "Country": "India",
+        "Year": "2023",
+        "Female Enrollment (%)": "26.7",
+        "Female Graduation Rate (%)": "15.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "USA",
+        "Year": "2015",
+        "Female Enrollment (%)": "32.0",
+        "Female Graduation Rate (%)": "48.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "China",
+        "Year": "2002",
+        "Female Enrollment (%)": "23.7",
+        "Female Graduation Rate (%)": "39.6",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2018",
+        "Female Enrollment (%)": "54.5",
+        "Female Graduation Rate (%)": "23.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.56"
+    },
+    {
+        "Country": "India",
+        "Year": "2017",
+        "Female Enrollment (%)": "38.9",
+        "Female Graduation Rate (%)": "63.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2003",
+        "Female Enrollment (%)": "61.3",
+        "Female Graduation Rate (%)": "56.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "China",
+        "Year": "2023",
+        "Female Enrollment (%)": "54.9",
+        "Female Graduation Rate (%)": "18.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2021",
+        "Female Enrollment (%)": "45.8",
+        "Female Graduation Rate (%)": "10.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2000",
+        "Female Enrollment (%)": "30.4",
+        "Female Graduation Rate (%)": "32.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "59.3",
+        "Female Graduation Rate (%)": "55.5",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2023",
+        "Female Enrollment (%)": "69.4",
+        "Female Graduation Rate (%)": "24.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Female Enrollment (%)": "57.5",
+        "Female Graduation Rate (%)": "54.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.97"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "47.1",
+        "Female Graduation Rate (%)": "30.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "36.0",
+        "Female Graduation Rate (%)": "49.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2006",
+        "Female Enrollment (%)": "35.7",
+        "Female Graduation Rate (%)": "35.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.77"
+    },
+    {
+        "Country": "India",
+        "Year": "2003",
+        "Female Enrollment (%)": "61.8",
+        "Female Graduation Rate (%)": "22.5",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.76"
+    },
+    {
+        "Country": "India",
+        "Year": "2013",
+        "Female Enrollment (%)": "59.2",
+        "Female Graduation Rate (%)": "26.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "India",
+        "Year": "2011",
+        "Female Enrollment (%)": "50.3",
+        "Female Graduation Rate (%)": "46.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "USA",
+        "Year": "2003",
+        "Female Enrollment (%)": "63.2",
+        "Female Graduation Rate (%)": "12.0",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "36.9",
+        "Female Graduation Rate (%)": "47.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.8"
+    },
+    {
+        "Country": "China",
+        "Year": "2022",
+        "Female Enrollment (%)": "29.8",
+        "Female Graduation Rate (%)": "64.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "59.2",
+        "Female Graduation Rate (%)": "53.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.5"
+    },
+    {
+        "Country": "China",
+        "Year": "2013",
+        "Female Enrollment (%)": "35.8",
+        "Female Graduation Rate (%)": "55.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.75"
+    },
+    {
+        "Country": "China",
+        "Year": "2000",
+        "Female Enrollment (%)": "33.8",
+        "Female Graduation Rate (%)": "19.0",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2011",
+        "Female Enrollment (%)": "24.5",
+        "Female Graduation Rate (%)": "49.5",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2004",
+        "Female Enrollment (%)": "35.4",
+        "Female Graduation Rate (%)": "33.9",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.72"
+    },
+    {
+        "Country": "USA",
+        "Year": "2002",
+        "Female Enrollment (%)": "36.3",
+        "Female Graduation Rate (%)": "42.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2003",
+        "Female Enrollment (%)": "52.0",
+        "Female Graduation Rate (%)": "26.9",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "India",
+        "Year": "2022",
+        "Female Enrollment (%)": "53.4",
+        "Female Graduation Rate (%)": "49.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "India",
+        "Year": "2010",
+        "Female Enrollment (%)": "20.4",
+        "Female Graduation Rate (%)": "15.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "India",
+        "Year": "2018",
+        "Female Enrollment (%)": "50.3",
+        "Female Graduation Rate (%)": "41.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "USA",
+        "Year": "2022",
+        "Female Enrollment (%)": "56.8",
+        "Female Graduation Rate (%)": "41.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "China",
+        "Year": "2013",
+        "Female Enrollment (%)": "44.3",
+        "Female Graduation Rate (%)": "56.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.9"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2015",
+        "Female Enrollment (%)": "57.5",
+        "Female Graduation Rate (%)": "40.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.71"
+    },
+    {
+        "Country": "USA",
+        "Year": "2001",
+        "Female Enrollment (%)": "26.9",
+        "Female Graduation Rate (%)": "44.7",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.54"
+    },
+    {
+        "Country": "India",
+        "Year": "2009",
+        "Female Enrollment (%)": "59.9",
+        "Female Graduation Rate (%)": "27.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "India",
+        "Year": "2005",
+        "Female Enrollment (%)": "55.9",
+        "Female Graduation Rate (%)": "35.3",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.55"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2021",
+        "Female Enrollment (%)": "52.6",
+        "Female Graduation Rate (%)": "62.6",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.82"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2008",
+        "Female Enrollment (%)": "32.1",
+        "Female Graduation Rate (%)": "21.6",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.78"
+    },
+    {
+        "Country": "China",
+        "Year": "2022",
+        "Female Enrollment (%)": "55.9",
+        "Female Graduation Rate (%)": "32.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.63"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2008",
+        "Female Enrollment (%)": "49.5",
+        "Female Graduation Rate (%)": "17.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.59"
+    },
+    {
+        "Country": "India",
+        "Year": "2007",
+        "Female Enrollment (%)": "63.2",
+        "Female Graduation Rate (%)": "18.2",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.79"
+    },
+    {
+        "Country": "China",
+        "Year": "2011",
+        "Female Enrollment (%)": "58.5",
+        "Female Graduation Rate (%)": "12.7",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.86"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "42.4",
+        "Female Graduation Rate (%)": "29.2",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.94"
+    },
+    {
+        "Country": "USA",
+        "Year": "2007",
+        "Female Enrollment (%)": "39.1",
+        "Female Graduation Rate (%)": "10.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2003",
+        "Female Enrollment (%)": "21.1",
+        "Female Graduation Rate (%)": "50.0",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.73"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "22.7",
+        "Female Graduation Rate (%)": "41.4",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.96"
+    },
+    {
+        "Country": "China",
+        "Year": "2005",
+        "Female Enrollment (%)": "45.5",
+        "Female Graduation Rate (%)": "62.8",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.84"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "54.0",
+        "Female Graduation Rate (%)": "27.3",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.58"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2015",
+        "Female Enrollment (%)": "27.7",
+        "Female Graduation Rate (%)": "19.9",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2019",
+        "Female Enrollment (%)": "59.4",
+        "Female Graduation Rate (%)": "49.1",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2022",
+        "Female Enrollment (%)": "23.4",
+        "Female Graduation Rate (%)": "37.8",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.83"
+    },
+    {
+        "Country": "China",
+        "Year": "2022",
+        "Female Enrollment (%)": "52.1",
+        "Female Graduation Rate (%)": "40.4",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2004",
+        "Female Enrollment (%)": "65.5",
+        "Female Graduation Rate (%)": "23.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.93"
+    },
+    {
+        "Country": "Canada",
+        "Year": "2012",
+        "Female Enrollment (%)": "57.0",
+        "Female Graduation Rate (%)": "35.1",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.64"
+    },
+    {
+        "Country": "India",
+        "Year": "2010",
+        "Female Enrollment (%)": "57.4",
+        "Female Graduation Rate (%)": "20.8",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.89"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2006",
+        "Female Enrollment (%)": "59.4",
+        "Female Graduation Rate (%)": "16.8",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.98"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2017",
+        "Female Enrollment (%)": "47.8",
+        "Female Graduation Rate (%)": "40.7",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.9"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2003",
+        "Female Enrollment (%)": "45.1",
+        "Female Graduation Rate (%)": "43.4",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.67"
+    },
+    {
+        "Country": "India",
+        "Year": "2019",
+        "Female Enrollment (%)": "38.4",
+        "Female Graduation Rate (%)": "25.2",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2016",
+        "Female Enrollment (%)": "37.2",
+        "Female Graduation Rate (%)": "50.1",
+        "STEM Fields": "Biology",
+        "Gender Gap Index": "0.91"
+    },
+    {
+        "Country": "India",
+        "Year": "2010",
+        "Female Enrollment (%)": "59.1",
+        "Female Graduation Rate (%)": "61.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.66"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2010",
+        "Female Enrollment (%)": "34.7",
+        "Female Graduation Rate (%)": "34.2",
+        "STEM Fields": "Engineering",
+        "Gender Gap Index": "0.92"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2011",
+        "Female Enrollment (%)": "61.2",
+        "Female Graduation Rate (%)": "39.9",
+        "STEM Fields": "Mathematics",
+        "Gender Gap Index": "0.85"
+    },
+    {
+        "Country": "India",
+        "Year": "2008",
+        "Female Enrollment (%)": "27.6",
+        "Female Graduation Rate (%)": "49.1",
+        "STEM Fields": "Computer Science",
+        "Gender Gap Index": "0.54"
+    }
+]
